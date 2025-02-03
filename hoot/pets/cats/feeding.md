@@ -4,7 +4,7 @@
 - [Normal Times](#normal-times)
 - [Technique](#technique)
 - [Treats](#treats)
-- [Allergies...](#allergies...)
+- [Allergies](#allergies)
 - [Brands](#brands)
 - [Kibble](#kibble)
 
@@ -31,7 +31,7 @@ Whenever Persy has finished, we let the boys out. She doesn't always eat her who
 
 But she _does_ sometimes take like 1 single bite, then away from it to use the litterbox while she knows the boys aren't around to bully her, then circle back and finish... so keep an eye out for that.
 
-## Allergies...
+## Allergies
 ### Persy
 Absolutely no fish, she breaks out in a full body rash. We avoid chicken and turkey, also cause rashes. 
 

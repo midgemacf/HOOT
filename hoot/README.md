@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Sub Pages](#sub-pages)
 - [Wifi](#wifi)
-- [Where's the...](#where's-the...)
+- [Where's the...](#wheresthe)
 - [Trash Schedule](#trash-schedule)
 - [Power outages](#power-outages)
 
@@ -34,7 +34,7 @@ The recycling (blue barrels) is taken on alternating Mondays... you can look up 
 neighbors put them out and go off that. We have 3 of them, and usually only fill one, *maybe* two, per collection so we can
 easily miss a cycle and not be in trouble.
 
-## Where's the...
+## <a name="wheresthe"></a>Where's the...
 * **First aid:** 
   * There's a box in the upstairs closet with bandaids, neosporin, gauze, etc
   * There are also some loose bandaids... everywhere. 
