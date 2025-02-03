@@ -9,7 +9,7 @@
 - [Power outages](#power-outages)
 
 ## Sub Pages
-- [Kitchen](kitchen/README.md)
+- [Kitchen](kitchen.md)
 - [Pets](pets/README.md)
 - [Garage](garage.md)
 - [Living room](living_room.md)
